@@ -1,9 +1,6 @@
 {
   "name": "api-football-backend",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "start": "vercel dev"
-  },
+  "version": "1.0.1",
+  "type": "commonjs",
   "dependencies": {}
 }
